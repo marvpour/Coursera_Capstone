@@ -26,3 +26,8 @@ Hopefully, this study helps immigrants to find the most convenient neighborhood 
 * Also, I will use **Community Crime and Disorder Statistics** data which is also publicly available here: https://data.calgary.ca/Health-and-Safety/Community-Crime-and-Disorder-Statistics/848s-4m4z
 
 This dataset contains `Sector`,    `Community Name`,    `Group Category`,    `Category`,    `Crime Count`,    `Resident Count`,    `Date`,    `Year`,    `Month    ID`, `Community` and `Center Point`. I will also use most of these columns to gather information about the rates in different neighborhoods.
+
+
+
+### Methodology
+Methodology section which represents the main component of the report where you discuss and describe any exploratory data analysis that you did, any inferential statistical testing that you performed, if any, and what machine learnings were used and why.
