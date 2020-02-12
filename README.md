@@ -2,6 +2,9 @@
 
 **Finding Most Convenient Neighbourhoods to Live in Calgary, Alberta, Canada.**
 
+Article: https://www.linkedin.com/pulse/finding-most-convenient-neighborhoods-live-calgary-maryam-vahdat-pour/
+
+
 ### Introduction to the Problem
 
 Since many people immigrated to Canada in the last decades, and most of them have no relatives there, the main problem is finding a good neighborhood based on their needs. As one of the immigrants, I would compare different neighborhoods in Calgary, Alberta based on different parameters. Here is the list of parameters that are considered to suggest the best neighborhoods in Calgary:
