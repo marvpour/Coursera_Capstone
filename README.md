@@ -1,4 +1,4 @@
-# 🏙️ Coursera_Capstone  
+# 🏙️ Calgary Neighborhood Ranking with ML  
 **Finding the Most Convenient Neighbourhoods to Live in Calgary, Alberta, Canada**
 
 ## 📖 Project Overview  
